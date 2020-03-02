@@ -1,0 +1,71 @@
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.container {
+  margin-bottom: 80px;
+}
+
+.carousel-item {
+  padding: 10px 20px;
+}
+.price {
+  color: #e3266e;
+}
+.my-awesome-button {
+  color: white;
+  background-image: linear-gradient(to bottom, #e3266e 20%, #a02655 80%);
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: none;
+}
+.cat1 {
+  background-image: linear-gradient(to left, #efa924 20%, #ee8f2b 80%);
+}
+.cat2 {
+  background-image: linear-gradient(to right, #e9438b 20%, #e8006b 80%);
+}
+.cat3 {
+  background-image: linear-gradient(to right, #2f25e4 20%, #2017cf 80%);
+}
+.categories img {
+  width: 100px;
+}
+.cat1,
+.cat2,
+.cat3 {
+  border-radius: 10px;
+  padding: 10px 16px;
+}
+.categories h1 {
+  color: white;
+}
+.price {
+  color: grey;
+  font-weight: 700;
+  font-size: 24px;
+}
+.card {
+  border: none;
+  box-shadow: 2px 2px 5px lightgray;
+  border-radius: 10px;
+}
+.card-footer {
+  background-color: none;
+  border-top: none;
+}
+#contact {
+  height: 300px;
+}
+#contact p {
+  color: gray;
+}
+.form-control::placeholder {
+  color: gray;
+}
+#contact button {
+  margin-top: 5px;
+}
+footer {
+  text-align: center;
+}
